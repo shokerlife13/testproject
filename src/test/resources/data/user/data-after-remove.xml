@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <ROLE idrole="1" name="Administrator" />
+    <ROLE idrole="2" name="User" />
+	<USER iduser="1" idrole="1" login="Duke_Nukem" password="12345" email="dn@gmail.com" firstName="Duke" lastName="Nukem" birthday="1945-07-15" />
+</dataset>
